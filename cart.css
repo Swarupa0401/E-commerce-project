@@ -1,9 +1,6 @@
 body {
   overflow-x: hidden;
   background-color: rgb(204, 204, 254);
-  /* width: 100%; */
-    /* box-sizing: border-box; */
-
 }
 
 .box{
@@ -31,12 +28,23 @@ nav a{
   color: black;
   margin-right:45px ;
 }
+nav p{
+  font-size: 10px;
+  width: 15px;
+  height: 15px;
+  color: white;
+  background-color: #0d0d6e;
+  border: 1px solid #0d0d6e;
+  text-align: center;
+  align-content: center;
+  border-radius: 50%;
+  margin-top: -32px;
+  margin-left: 332px;
+}
 nav i{
   margin-right: 25px;
 }
-/* main{
-  margin-bottom: 100px;
-} */
+
 .cart{
   margin-top: 50px;
   margin-left: 50px;
@@ -44,6 +52,7 @@ nav i{
   width: 700px;
   background-color: white;
 }
+
 .happy p{
   font-size: 18px;
   font-weight: 500;
@@ -116,13 +125,15 @@ nav i{
   margin-top: 13px;
 }
 .shop{
-  margin-top: 150px;
+  margin-top: 35px;
+  margin-left: 50px;
   height: 160px;
   width: 700px;
   background-color: white;
 }
 .hope{
-  margin-top: 150px;
+  margin-top: 35px;
+  margin-left: 50px;
   height: 160px;
   width: 700px;
   background-color: white;
@@ -134,7 +145,7 @@ nav i{
   position: absolute;
   top: 141px;
   left: 780px;
-  /* bottom: 100px; */
+  bottom: 100px;
 }
 .dart{
   padding-left: 20px;
@@ -144,7 +155,7 @@ nav i{
   color: rgb(47, 47, 145);
 }
 .dart p{
-  /* margin-top: -10px; */
+  margin-top: -10px; 
   font-size: 20px;
   font-weight: 50px;
 }
@@ -155,31 +166,22 @@ nav i{
 }
 hr{
   width: 340px;
-}
+} 
 .footer{
     width: 100vw;
     margin-left: 0px;
+    margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: rgb(47, 47, 84);
-    /* background-color: #062d55;  */
     color: white;
     box-sizing: border-box;
     padding-top: 30px ;
     padding-bottom: 50px;
     padding-left: 60px;
 }
-/* .footer{
-  background-color: rgb(47, 47, 84);
-  color: white;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  margin-top: 40px;
-  padding-top: 30px;
-  height: 350px;
-} */
+
 .end{
   margin-top: 50px;
   margin-left:5px;
@@ -208,7 +210,3 @@ hr{
   color: rgb(213, 213, 213);
   list-style-type:none;
 }
-
-
-
-
