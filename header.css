@@ -246,7 +246,7 @@ h2{
   padding-top: 20px;
   text-align: center;
 }
-/* .footer{
+.footer{
   background-color: rgb(47, 47, 84);
   color: white;
   display: flex;
@@ -286,7 +286,7 @@ h2{
   margin-left: -20px;
   color: rgb(213, 213, 213);
   list-style-type:none;
-} */
+}
 .duplicate{
   width: 100%;
   display: flex;

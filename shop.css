@@ -39,7 +39,7 @@ nav i{
   justify-content: center;      
   align-items: center;          
   margin-top: -30px; 
-  background-image:url(../images/table.jpg);
+  background-image:url(./Images/table.jpg);
   background-repeat: no-repeat;
   border: 2px solid white;
   padding-top: 70px;
@@ -146,6 +146,7 @@ nav i{
   color: black;
 }
 .new p{
+  margin-top: 5px;
   margin-left: 22px;
   font-weight: bold;
 }
