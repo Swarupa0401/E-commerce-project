@@ -4,18 +4,22 @@
 .box{
   background-color:white;
 }
-header{
-  box-shadow: 10px 5px 10px rgb(127, 125, 125);
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 10px 5px 12px rgb(106, 101, 101);
   display: grid;
   grid-template-columns: 65% 35%;
-  padding-bottom: 20px;
 }
-header h3{
-  margin-left: 120px;
-  margin-top: 30px;
-}
-h3 i{
-  margin-right: 5px;
+header img{
+  margin-top: 10px;
+  margin-left: 200px;
+  width: 200px;
+  height: 80px;
 }
 nav{
   margin-top: 30px;
