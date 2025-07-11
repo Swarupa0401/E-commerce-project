@@ -79,9 +79,10 @@ nav i{
 
 .page h3 {
   color:#ffffff;
-  font-size: 45px;               
+  font-size: 35px;               
   z-index: 2;                    
-  margin-top: 45px;                 
+  margin-top: 20px;  
+  margin-right: 35px;               
 }
 .dropdown-toggle::after{
   content: ' ⌄' !important;
