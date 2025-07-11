@@ -296,5 +296,42 @@ h2{
   gap: 20px;
   margin-top: 40px;
   margin-left: 250px;
-
+}
+.new button{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 160px;
+  margin-top: 10px;
+  border:2px solid rgb(218, 218, 218);
+}
+.new button:hover{
+  background-color: rgb(39, 39, 64);
+  color: white;
+}
+.add span{
+  position: absolute;
+  font-size: 30px;
+  margin-left: -10px;
+  margin-top: -25px;
+}
+.Arrivals button{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 160px;
+  margin-top: 10px;
+  border:2px solid rgb(218, 218, 218);
+}
+.duplicate button{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border: 1px solid gray;
+  border-radius: 50%;
+  margin-left: 160px;
+  margin-top: 10px;
+  border:2px solid rgb(218, 218, 218);
 }

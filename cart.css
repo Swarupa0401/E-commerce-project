@@ -109,7 +109,6 @@ nav i{
   width: 40px;
   height: 40px;
   font-size: 30px;
-  border: none;
 }
 .minus span{
   font-size: 60px;
@@ -210,3 +209,4 @@ hr{
   color: rgb(213, 213, 213);
   list-style-type:none;
 }
+
