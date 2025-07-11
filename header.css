@@ -59,7 +59,7 @@ nav i{
 .pic {
   width: 270px;
   margin-left: 950px;
-  margin-top: -290px;
+  margin-top: -270px;
 }
 .carousel-item h1{
   margin-top: 190px;
@@ -80,7 +80,7 @@ nav i{
   height: 30px;
   padding-left: 10px;
   padding-top: 3px;
-  background-color: rgb(233, 233, 233);
+  background-color: rgb(229, 229, 229);
 }
 .cards{
   background-color: white;
